@@ -1,3 +1,0 @@
-<aura:event type="APPLICATION" description="output is the message from a streaming API" >
-	<aura:attribute name="message" type="object"/>
-</aura:event>
